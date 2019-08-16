@@ -1,0 +1,6 @@
+classes= 1
+train  = /content/darknet/train.txt
+valid  = /content/darknet/test.txt
+names = cfg/obj.names
+backup = /content/darknet/backup/
+
